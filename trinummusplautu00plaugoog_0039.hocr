@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./trinummusplautu00plaugoog_0039.png"; bbox 0 0 2566 3946; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 490 1998 514 2622">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 490 1998 514 2622">
+     <span class='ocr_line' id='line_1_1' title="bbox 490 1998 514 2622; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 491 2438 514 2622; x_wconf 82' lang='lat' dir='ltr'>House</span> <span class='ocrx_word' id='word_1_2' title='bbox 491 2356 514 2413; x_wconf 80' lang='lat' dir='ltr'><strong>of</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 490 2032 514 2335; x_wconf 71' lang='lat' dir='ltr'>Charmides</span> <span class='ocrx_word' id='word_1_4' title='bbox 496 1998 498 2002; x_wconf 85' lang='lat'>·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 524 2017 587 3272">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 524 2017 587 3272">
+     <span class='ocr_line' id='line_1_2' title="bbox 524 2815 548 3272; textangle 90"><span class='ocrx_word' id='word_1_5' title='bbox 525 3090 548 3272; x_wconf 77' lang='lat' dir='ltr'>House</span> <span class='ocrx_word' id='word_1_6' title='bbox 524 3009 548 3068; x_wconf 80' lang='lat' dir='ltr'><strong>of</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 524 2815 548 2992; x_wconf 72' lang='lat' dir='ltr'>Philto</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 557 2017 587 2637; textangle 90"><span class='ocrx_word' id='word_1_8' title='bbox 557 2369 586 2637; x_wconf 75' lang='lat' dir='ltr'>Oecupied</span> <span class='ocrx_word' id='word_1_9' title='bbox 558 2275 587 2349; x_wconf 81' lang='lat' dir='ltr'><strong>by</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 557 2017 581 2253; x_wconf 78' lang='lat' dir='ltr'>Callicles</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 500 246 775 300">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 500 246 775 300">
+     <span class='ocr_line' id='line_1_4' title="bbox 500 246 775 300; baseline 0.011 -4"><span class='ocrx_word' id='word_1_11' title='bbox 500 246 775 300; x_wconf 85' lang='lat' dir='ltr'>INTRODUCTION</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1020 1699 1047 2342">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1020 1699 1047 2342">
+     <span class='ocr_line' id='line_1_5' title="bbox 1020 1699 1047 2342; textangle 90"><span class='ocrx_word' id='word_1_12' title='bbox 1020 2137 1047 2342; x_wconf 84' lang='lat' dir='ltr'>PLAN</span> <span class='ocrx_word' id='word_1_13' title='bbox 1020 2039 1047 2090; x_wconf 92' lang='lat' dir='ltr'>O</span> <span class='ocrx_word' id='word_1_14' title='bbox 1021 1987 1046 2033; x_wconf 83' lang='lat' dir='ltr'><strong>F</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1020 1699 1047 1943; x_wconf 81' lang='lat' dir='ltr'>STAGE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1330 3946">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1330 3946">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1330 3946; textangle 90"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1330 3946; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
